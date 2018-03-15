@@ -1,0 +1,14 @@
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\MainWindow.g.cs
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\App.g.cs
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\WpfApexJobTest_MarkupCompile.cache
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\WpfApexJobTest_MarkupCompile.lref
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\bin\Debug\WpfApexJobTest.exe.config
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\bin\Debug\WpfApexJobTest.exe
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\bin\Debug\WpfApexJobTest.pdb
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\MainWindow.baml
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\WpfApexJobTest.g.resources
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\WpfApexJobTest.Properties.Resources.resources
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\WpfApexJobTest.csproj.GenerateResource.Cache
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\WpfApexJobTest.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\WpfApexJobTest.exe
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\WpfApexJobTest\WpfApexJobTest\obj\Debug\WpfApexJobTest.pdb
